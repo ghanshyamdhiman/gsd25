@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/WhatsApp Image 2024-06-15 at 6.29.22 PM.jpeg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
