@@ -9,13 +9,7 @@ sections:
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
       more.](https://docs.netlify.com/create/features/local-development)
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/create/overview'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/WhatsApp Image 2024-06-15 at 6.29.22 PM.jpeg
