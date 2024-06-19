@@ -18,7 +18,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Contact",
                 "url": "https://docs.netlify.com/create/overview",
                 "underline": "hover"
             }
