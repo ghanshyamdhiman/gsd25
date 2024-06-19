@@ -3,28 +3,14 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: GSD Webs Headless CMS
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/create/features/local-development)
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/create/quickstart'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/create/overview'
-        size: large
-        variant: outlined
-        color: primary
+    text: |
+      There is lot more to life than just mundane
+    actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/WhatsApp Image 2024-06-15 at 6.29.22 PM.jpeg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component

@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "https://docs.netlify.com/create/overview",
+                "url": "https://gsd25.netlify.app/contact",
                 "underline": "hover"
             }
         ]
