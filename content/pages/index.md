@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: GSD Webs Headless CMS
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/create/features/local-development)
+    text: |
+      There is lot more to life than just mundane
     actions: []
     image:
       type: Image
