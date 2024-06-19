@@ -11,12 +11,6 @@ sections:
       more.](https://docs.netlify.com/create/features/local-development)
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/create/quickstart'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/create/overview'
         size: large
